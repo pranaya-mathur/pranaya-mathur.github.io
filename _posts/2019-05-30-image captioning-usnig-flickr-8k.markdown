@@ -2,7 +2,7 @@
 layout: default
 modal-id: 5
 date: 2019-05-30
-img: safe.png
+img: image.png
 alt: image-alt
 project-date: May 2019
 category: Deep Learning(LSTM + Transfer Learning + CNN)
