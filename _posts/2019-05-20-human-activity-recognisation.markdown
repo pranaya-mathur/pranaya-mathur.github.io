@@ -2,7 +2,7 @@
 layout: default
 modal-id: 4
 date: 2019-05-20
-img: har.jfif
+img: har.jpg
 alt: image-alt
 project-date: May 2019
 category: Deep Learning (LSTM)
