@@ -6,6 +6,6 @@ img: quora-icon.png
 alt: image-alt
 project-date: April 2019
 category: Machine Learning
-description: In this problem we have provided two questions with question ID. The task was to determine whether this question are duplicate of one another or not. Data preprocessing and feature engineering was done to get more features. The performance metric used was log-loss. Tried and tested various ML models to get minimum log-loss.All the code and IPYNB notebook can found at https://github.com/Raman-Raje/Quora-Question-Pair-Similarity
+description: In this problem we have provided two questions with question ID. The task was to determine whether this question are duplicate of one another or not. Data preprocessing and feature engineering was done to get more features. The performance metric used was log-loss. Tried and tested various ML models to get minimum log-loss.                                                                               All the code and IPYNB notebook can found at https://github.com/Raman-Raje/Quora-Question-Pair-Similarity 
 
 ---
