@@ -10,12 +10,4 @@ description: In this problem we have provided two questions with question ID. Th
 
 **All the code and IPYNB notebook can found at https://github.com/Raman-Raje/Quora-Question-Pair-Similarity**
 
-  Observation
-  ----------
-  * Our aim is to get loss less than Random Model which is 0.8872
-  * We Used TFIDF vectorizer to get better results.
-  * TFIDF vector gave better result in each case as compared to TFIDF-W2V
-  * The models trained on TF-IDF are not included here
-  * XGBOOST tuning 2 gave the best performance with minimum training of 0.158
-
 ---
