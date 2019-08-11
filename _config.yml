@@ -1,7 +1,7 @@
 # Site settings
-title: Raman Shinde
-email: raman.shinde15@gmail.com
-url: https://raman-raje.github.io/
+title: Pranay Mathur
+email: pranaya.mathur@yahoo.com
+url: https://pranaya-mathur.github.io/
 description: "Write an awesome description for your new site here. "
 keywords: "I want to understand things clearly and explain them well"
 skills: "Machine Learning | Deep Learning | NLP | Data Analysis | Python"
@@ -49,8 +49,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Vishrantwadi - 411015
-  - line: Pune, India.
+  - line: Ajmer - 305001
+  - line: Rajasthan, India.
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
